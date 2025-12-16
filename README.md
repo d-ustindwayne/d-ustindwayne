@@ -1,3 +1,4 @@
+![Counter](https://komarev.com/ghpvc/?username=d-ustindwayne&label=Profile%20Views&color=00cc66&style=flat)
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
