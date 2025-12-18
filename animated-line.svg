@@ -1,39 +1,37 @@
-<svg width="280" height="80" viewBox="0 0 280 75" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="36" viewBox="0 0 320 28" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Gradient -->
+    <!-- Blue → Green gradient -->
     <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#3b82f6"/>
       <stop offset="100%" stop-color="#22c55e"/>
     </linearGradient>
 
-    <!-- Subtle doodle blur -->
+    <!-- Tiny blur for hand-drawn feel -->
     <filter id="doodleBlur">
-      <feGaussianBlur stdDeviation="0.35" />
+      <feGaussianBlur stdDeviation="0.25" />
     </filter>
   </defs>
 
-  <!-- Wiggly doodle line -->
+  <!-- Compact wiggly doodle line -->
   <path
     fill="none"
     stroke="url(#lineGradient)"
-    stroke-width="4"
+    stroke-width="3"
     stroke-linecap="round"
     stroke-dasharray="6 6"
     filter="url(#doodleBlur)"
   >
-    <!-- Animate the path itself for wiggle -->
     <animate
       attributeName="d"
       dur="1.8s"
       repeatCount="indefinite"
       values="
-        M20 40 Q 60 36, 100 40 T 180 40 T 260 40;
-        M20 40 Q 60 44, 100 40 T 180 42 T 260 40;
-        M20 40 Q 60 36, 100 40 T 180 38 T 260 40
+        M16 14 Q 64 12, 112 14 T 208 14 T 304 14;
+        M16 14 Q 64 16, 112 14 T 208 15 T 304 14;
+        M16 14 Q 64 12, 112 14 T 208 13 T 304 14
       "
     />
 
-    <!-- Animated dash = moving sketch feel -->
     <animate
       attributeName="stroke-dashoffset"
       from="0"
