@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="36"/> My name is Dustin Dwayne Diaz. Currently an international student studying Software and Web Development, focused on learning by building and breaking things until they work. Currently growing skills across full-stack web, programming fundamentals, and system design.
+Hi! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="16"/> My name is Dustin Dwayne Diaz. Currently an international student studying Software and Web Development, focused on learning by building and breaking things until they work. Currently growing skills across full-stack web, programming fundamentals, and system design.
 
 <img src="animated-line.svg" width="100%" alt=" "/>
 
