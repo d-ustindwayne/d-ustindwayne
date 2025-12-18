@@ -1,42 +1,33 @@
-<svg width="320" height="36" viewBox="0 0 320 28" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="16" viewBox="0 0 320 16" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Blue → Green gradient -->
     <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#3b82f6"/>
       <stop offset="100%" stop-color="#22c55e"/>
     </linearGradient>
-
-    <!-- Tiny blur for hand-drawn feel -->
-    <filter id="doodleBlur">
-      <feGaussianBlur stdDeviation="0.25" />
-    </filter>
   </defs>
 
-  <!-- Compact wiggly doodle line -->
   <path
     fill="none"
     stroke="url(#lineGradient)"
-    stroke-width="3"
+    stroke-width="2.5"
     stroke-linecap="round"
-    stroke-dasharray="6 6"
-    filter="url(#doodleBlur)"
+    stroke-dasharray="5 6"
   >
     <animate
       attributeName="d"
       dur="1.8s"
       repeatCount="indefinite"
       values="
-        M16 14 Q 64 12, 112 14 T 208 14 T 304 14;
-        M16 14 Q 64 16, 112 14 T 208 15 T 304 14;
-        M16 14 Q 64 12, 112 14 T 208 13 T 304 14
+        M8 8 Q 64 7, 120 8 T 200 8 T 312 8;
+        M8 8 Q 64 9, 120 8 T 200 9 T 312 8;
+        M8 8 Q 64 7, 120 8 T 200 7 T 312 8
       "
     />
-
     <animate
       attributeName="stroke-dashoffset"
       from="0"
-      to="-48"
-      dur="1.6s"
+      to="-44"
+      dur="1.5s"
       repeatCount="indefinite"
     />
   </path>
