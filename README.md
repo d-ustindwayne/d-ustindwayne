@@ -10,12 +10,14 @@ Hi! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c
 
 | Category | Skills |
 |--------|--------|
-| **Languages** | Python, Java, C, C++, HTML, CSS, JavaScript, SQL |
-| **Frameworks & Libraries** | Bootstrap, Tailwind CSS, jQuery, Vite, React, Express, EJS |
-| **Development Tools** | Visual Studio Code, NetBeans, Microsoft MySQL, Apache |
-| **Design & Documentation** | Figma, Canva, Draw.io, ERDPlus |
-| **Core Concepts** | Object-Oriented Programming, Data Structures, System Analysis & Design, Human–Computer Interaction |
-| **Systems & Hardware** | Windows & Linux Installation, Arduino, Microcontroller Programming |
+| **Programming Languages** | Python, C, C++, Java, JavaScript, TypeScript, PHP, SQL |
+| **Web Development** | HTML, CSS, Bootstrap, Tailwind CSS, jQuery, React, Express.js, EJS |
+| **Tools & Platforms** | Git, Node.js, Vite, Docker, Visual Studio Code, Apache, MySQL |
+| **Design & UI/UX** | Figma, Canva, Draw.io, ERDPlus |
+| **Data & Analysis** | Microsoft Power BI, Access, Excel, AI Studio (RapidMiner) |
+| **Software & Systems** | Microsoft Office Suite, NetBeans, Rufus, OBS Studio, Piskel |
+| **Technical Concepts** | Object-Oriented Programming, Data Structures, System Analysis & Design, Human-Computer Interaction |
+| **Hardware & Embedded** | PC Assembly, Windows/Linux Installation, Arduino, Raspberry Pi, Embedded Systems |
 
 <img src="animated-line.svg" width="100%" alt=" "/>
 
