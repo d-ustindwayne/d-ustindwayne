@@ -6,6 +6,15 @@ Hi! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c
 
 <img src="animated-line.svg" width="100%" alt=" "/>
 
+## Fields
+
+- Software Development
+- Full Stack Web Development
+- UI/UX Design
+- Data Analytics & Visualization
+- Systems & IT Infrastructure
+- Embedded Systems
+
 ## Skills & Technologies
 
 | Category | Skills |
