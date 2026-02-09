@@ -20,7 +20,7 @@ Hi! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c
 | Category | Skills |
 |--------|--------|
 | **Programming Languages** | Python, C, C++, Java, JavaScript, TypeScript, PHP, SQL |
-| **Web Development** | HTML, CSS, Bootstrap, Tailwind CSS, jQuery, React, Express.js, EJS |
+| **Web Development** | HTML, CSS, Bootstrap, Tailwind CSS, jQuery, React, Express.js, EJS, Wordpress |
 | **Tools & Platforms** | Git, Node.js, Vite, Docker, Visual Studio Code, Apache, MySQL |
 | **Design & UI/UX** | Figma, Canva, Draw.io, ERDPlus |
 | **Data & Analysis** | Microsoft Power BI, Access, Excel, AI Studio (RapidMiner) |
