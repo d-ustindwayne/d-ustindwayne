@@ -19,16 +19,12 @@ Hi! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c
 
 ## Skills & Technologies
 
-| Category | Skills |
+| Skill Category | Technical Skills & Technologies |
 |--------|--------|
-| **Programming Languages** | Python, C, C++, Java, JavaScript, TypeScript, PHP, SQL |
-| **Web Development** | HTML, CSS, Bootstrap, Tailwind CSS, jQuery, React, Express.js, EJS, Wordpress |
-| **Tools & Platforms** | Git, Node.js, Vite, Docker, Visual Studio Code, Apache, MySQL |
-| **Design & UI/UX** | Figma, Canva, Draw.io, ERDPlus |
-| **Data & Analysis** | Microsoft Power BI, Access, Excel, AI Studio (RapidMiner) |
-| **Software & Systems** | Microsoft Office Suite, NetBeans, Rufus, OBS Studio, Piskel |
-| **Technical Concepts** | Object-Oriented Programming, Data Structures, System Analysis & Design, Human-Computer Interaction |
-| **Hardware & Embedded** | PC Assembly, Windows/Linux Installation, Arduino, Raspberry Pi, Embedded Systems |
+| **Programming Languages** | JavaScript, TypeScript, Python, Java, C, C++, C#, PHP, Kotlin, SQL |
+| **Web & Software Development** | HTML/CSS, React, React Native, Tailwind CSS, Bootstrap, Material UI, WordPress, MERN stack, JAMstack |
+| **Tools & Environments** | Git, Node.js, Docker, Vite, XAMPP/MAMP/Local, Android Studio, VS Code, Figma, Power BI |
+| **Hardware & Systems** | PC Assembly, Hardware & Software Troubleshooting, Windows & Linux OS Installation, Arduino |
 
 <img src="animated-line.svg" width="100%" alt=" "/>
 
