@@ -1,5 +1,7 @@
 ![HeroBanner](github-banner.png)
 
+![LineSquiggly](animated-line.svg)
+
 # Hello! I'm Dustin Dwayne Diaz 
 
 **Software & Web Developer · WordPress Developer · Digital Technologies Student**
@@ -31,5 +33,7 @@ I enjoy building practical software, developing websites, and exploring new tech
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ustindwayne&layout=compact&hide_border=true&langs_count=8)
 
 ![GitHub Contribution Streak](https://streak-stats.demolab.com?user=d-ustindwayne&hide_border=true)
+
+![LineSquiggly](animated-line.svg)
 
 *Always learning, always building.*
