@@ -8,9 +8,9 @@ I enjoy building practical software, developing websites, and exploring new tech
 
 ### What I Work With
 
-**Languages:** JavaScript, TypeScript, Python, C#, Java, PHP, SQL
+**Languages:** JavaScript, TypeScript, Python, C, C++, C#, Java, Kotlin, Swift, PHP, SQL
 
-**Web Development:** React, Astro, WordPress, Tailwind CSS, HTML, CSS
+**Web Development:** React, Vue, Astro, WordPress, Tailwind CSS, HTML, CSS
 
 **Tools & Technologies:** Git, Vite, Node.js, Azure Functions, SQL Server
 
@@ -22,18 +22,12 @@ I enjoy building practical software, developing websites, and exploring new tech
 
 ☕ **[Buy Me a Coffee](https://buymeacoffee.com/dust.dev)** · Support my work.
 
-### 📊 GitHub Analytics
+### 📊 Profile Data
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-ustindwayne&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ustindwayne&layout=compact&hide_border=true&langs_count=8)
 
 ![GitHub Contribution Streak](https://streak-stats.demolab.com?user=d-ustindwayne&hide_border=true)
-
-### 🏆 GitHub Trophies
-
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=d-ustindwayne&no-frame=true&no-bg=true&row=1&column=6)
-
-![Profile Views](https://komarev.com/ghpvc/?username=d-ustindwayne&style=flat-square&color=blue&label=Profile+Views)
 
 *Always learning, always building.*
