@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![HeroBanner](github-banner.png)
 
 # Hello! I'm Dustin Dwayne Diaz 
 
