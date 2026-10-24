@@ -56,14 +56,4 @@ I enjoy building practical software, developing websites, and exploring new tech
   <img src="https://streak-stats.demolab.com?user=d-ustindwayne&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=d-ustindwayne&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Profile Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=d-ustindwayne&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
-</p>
-
 *Always learning, always building.*
