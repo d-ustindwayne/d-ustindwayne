@@ -1,4 +1,6 @@
-# Hey, I'm Dustin 
+![Banner](banner.png)
+
+# Hello! I'm Dustin Dwayne Diaz 
 
 **Software & Web Developer · WordPress Developer · Digital Technologies Student**
 
