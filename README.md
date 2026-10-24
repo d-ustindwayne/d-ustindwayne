@@ -18,42 +18,22 @@ I enjoy building practical software, developing websites, and exploring new tech
 
 🌐 **[Portfolio & Website](https://d-ustindwayne.github.io/)** · See what I'm working on and learn more about me.
 
-💼 [LinkedIn](https://linkedin.com/in/diaz5195) · Connect professionally.
+💼 **[LinkedIn](https://linkedin.com/in/diaz5195)** · Connect professionally.
 
-☕ [Buy Me a Coffee](https://buymeacoffee.com/dust.dev) · Support my work.
-
-### GitHub Activity
+☕ **[Buy Me a Coffee](https://buymeacoffee.com/dust.dev)** · Support my work.
 
 ### 📊 GitHub Analytics
 
-\<p align="center">
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=d-ustindwayne&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=d-ustindwayne\&show_icons=true\&hide_border=true\&include_all_commits=true\&rank_icon=github)" alt="GitHub Stats" />
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=d-ustindwayne&layout=compact&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ustindwayne\&layout=compact\&hide_border=true\&langs_count=8)" alt="Top Languages" />
-\</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-ustindwayne&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github)
 
-\<p align="center">
-\<img src="[https://streak-stats.demolab.com?user=d-ustindwayne&hide_border=true](https://streak-stats.demolab.com?user=d-ustindwayne\&hide_border=true)" alt="GitHub Contribution Streak" />
-\</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ustindwayne&layout=compact&hide_border=true&langs_count=8)
+
+![GitHub Contribution Streak](https://streak-stats.demolab.com?user=d-ustindwayne&hide_border=true)
 
 ### 🏆 GitHub Trophies
 
-\<p align="center">
-\<img src="[https://github-profile-trophy.vercel.app/?username=d-ustindwayne&no-frame=true&no-bg=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=d-ustindwayne\&no-frame=true\&no-bg=true\&row=1\&column=6)" alt="GitHub Profile Trophies" />
-\</p>
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=d-ustindwayne&no-frame=true&no-bg=true&row=1&column=6)
 
-\<p align="center">
-\<img src="[https://komarev.com/ghpvc/?username=d-ustindwayne&style=flat-square&color=blue&label=Profile+Views](https://komarev.com/ghpvc/?username=d-ustindwayne\&style=flat-square\&color=blue\&label=Profile+Views)" alt="Profile Views" />
-\</p>
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=d-ustindwayne&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-ustindwayne&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=d-ustindwayne&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=d-ustindwayne&style=flat-square&color=blue&label=Profile+Views)
 
 *Always learning, always building.*
