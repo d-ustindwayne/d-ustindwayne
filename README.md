@@ -1,6 +1,8 @@
 ![HeroBanner](poster.png)
 
-![LineSquiggly](animated-line.svg)
+<div align="center">
+  <img src="animated-line.svg" alt="Dustin Dwayne Diaz"/>
+</div>
 
 # Hello! I'm Dustin Dwayne Diaz 
 
