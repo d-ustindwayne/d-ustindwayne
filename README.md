@@ -1,4 +1,4 @@
-![HeroBanner](github-banner.png)
+![HeroBanner](poster.png)
 
 ![LineSquiggly](animated-line.svg)
 
