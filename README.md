@@ -1,8 +1,10 @@
 ![HeroBanner](poster.png)
 
 <div align="center">
-  <img src="animated-line.svg" alt="Dustin Dwayne Diaz"/>
+  <img src="animated-line.svg" alt="Line" width="49%" />
+  <img src="animated-line.svg" alt="Line" width="49%" />
 </div>
+
 
 # Hello! I'm Dustin Dwayne Diaz 
 
@@ -36,6 +38,9 @@ I enjoy building practical software, developing websites, and exploring new tech
 
 ![GitHub Contribution Streak](https://streak-stats.demolab.com?user=d-ustindwayne&hide_border=true)
 
-![LineSquiggly](animated-line.svg)
+<div align="center">
+  <img src="animated-line.svg" alt="Line" width="49%" />
+  <img src="animated-line.svg" alt="Line" width="49%" />
+</div>
 
 *Always learning, always building.*
